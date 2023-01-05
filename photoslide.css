@@ -1,0 +1,33 @@
+.divya {
+	background-image: url('https://wallpaperaccess.com/full/559099.jpg');
+    background-size: cover;
+    height:300vh;
+}
+.heading {
+	padding: 20px;
+	color: white;
+}
+.first {
+	border-bottom-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin: 30px;
+	padding: 30px;
+}
+.second {
+	background-color: white;
+	border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.divya2 {
+	color: red;
+	font-family: 'Roboto';
+	padding: 20px;
+
+}
+.divv {
+	font-family: 'Roboto';
+	font-style: bold;
+	font-size:20px;
+}

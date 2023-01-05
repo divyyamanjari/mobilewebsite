@@ -1,0 +1,17 @@
+.first{
+	background-image: url('https://www.cnet.com/a/img/resize/92c68c26dad05a724f622d84bb93baffccd734f8/hub/2018/04/10/e47ad151-a003-499d-b58d-8e8060a9323e/03-iphone-8-and-iphone-8-plus-productred-special-edition-2018.jpg?auto=webp&width=1200');
+	background-size: cover;
+	height: 100vh;
+}
+.divya {
+	background-color: purple;
+	height: 180px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 10px;
+
+
+}
+.divv{
+	color: white;
+}

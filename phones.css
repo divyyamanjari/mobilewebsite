@@ -1,0 +1,27 @@
+.first {
+	background-image: url(https://th.bing.com/th/id/R.4a0fbe57975945f82f8d997d49736ce7?rik=hlxAk9a9zf4%2fNw&riu=http%3a%2f%2fwww.mobiles24.com%2fstatic%2fpreviews%2fdownloads%2fdefault%2f331%2fP-604962-QNHNZsP6bL-1.jpg&ehk=T99PF%2fEIcNOfIcwncD6ng8z5oOcQrRUo%2bH1I8jHarGg%3d&risl=&pid=ImgRaw&r=0);
+	height: 150vh;
+	background-size: cover;
+	color: white;
+}
+.layout {
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 10px;
+}
+.brandname {
+	color: red;
+	font-family: roboto;
+	font-size: 30px;
+	font-weight: bold;
+}
+.name {
+	color: darkgrey;
+	font-family: roboto;
+	font-size: 15px;
+}
+.branding {
+	width: 100px;
+	height: 100px;
+}
